@@ -7,6 +7,8 @@ My name is Stéphane and I'm a junior developer based in Belgium 🇧🇪 .
 I would like to improve my professionnal skills through this Github account. 
 
 
+---
+
 ### Contact 
 
 
@@ -17,15 +19,15 @@ If you really want to contact me, you can do it on my email address.
 ### 🛠 Tech and langages
 
 
-#### C/C++
-#### C#
-#### Flutter
-#### Java
-#### SQL
+C/C++
+C#
+Flutter
+Java
+SQL
 
-#### Docker
-#### MariaDB / MySQL
-#### Spring / Spring Boot
-#### Qt
-#### VueJS
-#### SDL / SDL_image
+Docker
+MariaDB / MySQL
+Spring / Spring Boot
+Qt
+VueJS
+SDL / SDL_image
