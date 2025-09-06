@@ -16,18 +16,23 @@ If you really want to contact me, you can do it on my email address.
 📫 Email : stephhec113@gmail.com
 
 
+---
+
 ### 🛠 Tech and langages
 
+<p>
+  C/C++
+  C#
+  Flutter
+  Java
+  SQL
+</p>
 
-C/C++
-C#
-Flutter
-Java
-SQL
-
-Docker
-MariaDB / MySQL
-Spring / Spring Boot
-Qt
-VueJS
-SDL / SDL_image
+<p>
+  Docker
+  MariaDB / MySQL
+  Spring / Spring Boot
+  Qt
+  VueJS
+  SDL / SDL_image
+</p>
