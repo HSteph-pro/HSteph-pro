@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hello world 👋
 
-<!--
-**HSteph-pro/HSteph-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Stéphane and I'm a junior developer based in Belgium 🇧🇪 .
+I would like to improve my professionnal skills through this Github account. 
+
+
+### Contact 
+
+
+If you really want to contact me, you can do it on my email address.
+📫 Email : stephhec113@gmail.com
+
+
+### 🛠 Tech and langages
+
+
+#### C/C++
+#### C#
+#### Flutter
+#### Java
+#### SQL
+
+#### Docker
+#### MariaDB / MySQL
+#### Spring / Spring Boot
+#### Qt
+#### VueJS
+#### SDL / SDL_image
